@@ -1,5 +1,7 @@
 #매일 Javascript Algorithm 풀고 풀이 정리하기
 
+2019/07/15 - anagrams - Check to see if two provided strings are anagrams of eachother. One string is an anagram of another if it uses the same characters
+in the same quantity. Only consider characters, not spaces or punctuation. Consider capital letters to be the same as lower case </br>
 2019/07/08 - chunk - with given array and size(number), divide the array into many subarrays. <br/>
 2019/07/05 - fizzbuzz - classic fizzbuzz <br/>
 2019/07/04 - maxchar - find a character with maximum repeated numbers <br/>
