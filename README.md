@@ -1,5 +1,6 @@
 #JavaScript Algorithm Practice Log
 
+2019/07/20 - steps - Write a function that accepts a positive number. It should console log a step shape with N levels using the # character. The step has spaces on the right side.(+ recursion) <br/>
 2019/07/18 - capitalize - Write a function that accepts a string. The function should capitalize the first letter of each word in the string then return the capitalized string. <br/>
 2019/07/15 - anagrams - Check to see if two provided strings are anagrams of eachother. One string is an anagram of another if it uses the same characters
 in the same quantity. Only consider characters, not spaces or punctuation. Consider capital letters to be the same as lower case </br>
